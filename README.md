@@ -5,4 +5,4 @@
 I'm pushing here little bits of code that don't fit elsewhere.
 
 * LRU.cpp
-* - Least recently used list. Originally created to work as a cache system for something.
+  - Least recently used list. Originally created to work as a cache system for something.
